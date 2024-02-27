@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.profile {
+    text-align: center;
+    padding: 30px 0;
+    background-color: #007bff;
+    color: #fff;
+}
+/*
+.profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+*/
+.details {
+    padding: 20px;
+}
+
+.details .about {
+    color: #007bff;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.details p {
+    line-height: 1.6;
+    font-size: 15px;
+}
+
+.school{
+    text-align: center;
+    color: tomato;
+}
+
+.grade{
+    text-align: center;
+    color: red;
+}
+
+h3{
+    text-align: center;
+    font-size: 40px;
+}
+
+
+li{
+    font-size: 20px;
+}
+
+
+
+
+#datetime{
+    text-align:center;
+    font-size: 18px;
+    color: orange;
+    font-weight: 500;
+}
+
