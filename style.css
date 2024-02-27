@@ -20,7 +20,7 @@ container {
     background-color: #007bff;
     color: #fff;
 }
-/*
+
 .profile img {
     width: 150px;
     height: 150px;
@@ -28,7 +28,7 @@ container {
     object-fit: cover;
     margin-bottom: 20px;
 }
-*/
+
 .details {
     padding: 20px;
 }
